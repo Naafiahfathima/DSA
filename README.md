@@ -1,2 +1,4 @@
 # DSA
-Data Structures and Algorithm
+## Data Structures and Algorithm
+### Searching
+> Linear Search
