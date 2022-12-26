@@ -1,5 +1,5 @@
 # DSA
 ## Data Structures and Algorithm
 ### Searching
-> Linear Search
-> Binary Search
+- Linear Search 
+- Binary Search
